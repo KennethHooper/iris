@@ -1,1 +1,1 @@
-This is the make file for standard sites.
+Drupal 7 custom profile.
