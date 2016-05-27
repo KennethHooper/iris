@@ -25,7 +25,7 @@ projects[cs_adaptive_image]                                     = 1.0
 projects[ctools]                                                = 1.9
 projects[colorbox]                                              = 2.10
 projects[colorbox_node]                                         = 3.5
-projects[context]                                               = 3.6
+projects[context]                                               = 3.7
 projects[date]                                                  = 2.9
 projects[devel]                                                 = 1.5
 projects[ds]                                                    = 2.11
@@ -75,7 +75,7 @@ projects[label_help]	                                           = 1.2
 projects[leaflet]                                               = 1.3
 projects[leaflet_more_maps]                                     = 1.16
 projects[leaflet_widget]                                        = 2.0-beta1
-projects[libraries]                                             = 2.2
+projects[libraries]                                             = 2.3
 projects[link]                                                  = 1.4
 projects[magic]                                                 = 2.2
 projects[mailsystem]                                            = 2.34
@@ -134,7 +134,7 @@ projects[webform_multifile]                                     = 1.3
 projects[webform_rules]	                                        = 1.6
 projects[webform_validation]                                    = 1.11
 projects[weight]                                                = 2.5
-projects[xmlsitemap]                                            = 2.2
+projects[xmlsitemap]                                            = 2.3
 
 ; Libraries:
 # CKEditor
