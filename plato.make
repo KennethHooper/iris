@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.44"
+projects[drupal][version] = "7.50"
 
 ; Themes :
 projects[adminimal_theme]                                       = 1.23
@@ -40,15 +40,7 @@ projects[extlink]                                               = 1.18
 projects[fb]                                                    = 3.4
 projects[fboauth]                                               = 2.0-rc1
 projects[features]                                              = 2.10
-
-projects[feeds]                                                 = 2.0-beta1
-; projects[feeds][patch][] = "http://drupal.org/files/feeds_remove_entities_not_in_feed-1470530-94.patch"
- 
-; projects[feeds][type] = module
-; projects[feeds][download][type] = git
-; projects[feeds][download][branch] = 7.x-2.x
-; projects[feeds][download][url] = "http://git.drupal.org/project/feeds.git"
-
+projects[feeds]                                                 = 2.0-beta2
 projects[feeds_xpathparser]                                     = 1.1
 projects[fences]                                                = 1.2
 projects[field_collection]                                      = 1.0-beta11
@@ -84,7 +76,7 @@ projects[menu_attributes]                                       = 1.0
 projects[menu_block]                                            = 2.7
 projects[menu_trail_by_path]                                    = 2.0
 projects[menu_item_visibility]                                  = 1.0-beta1
-projects[metatag]                                               = 1.16
+projects[metatag]                                               = 1.17
 projects[mimemail]                                              = 1.0-beta4
 projects[modernizr]                                             = 3.4
 projects[module_filter]                                         = 2.0
@@ -106,7 +98,7 @@ projects[redirect]                                              = 1.0-rc3
 projects[responsive_menus]                                      = 1.5
 projects[robotstxt]                                             = 1.3
 projects[rules]                                                 = 2.9
-projects[search_api]                                            = 1.18
+projects[search_api]                                            = 1.19
 projects[search_krumo]                                          = 1.6
 projects[select_with_style]                                     = 1.14
 projects[scroll_to_top]                                         = 2.1
@@ -126,7 +118,7 @@ projects[views_bulk_operations]                                 = 3.3
 projects[vbo_hide]                                              = 1.2
 projects[views_flipped_table]                                   = 1.0
 projects[views_infinite_scroll]                                 = 1.1
-projects[views_php]                                             = 1.0-alpha1
+projects[views_php]                                             = 1.0-alpha3
 projects[views_slideshow]                                       = 3.1
 projects[webform]                                               = 4.12
 projects[webform_phone]                                         = 1.23
@@ -141,7 +133,7 @@ projects[xmlsitemap]                                            = 2.3
 libraries[ckeditor][type] = "library"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.6/ckeditor_4.5.6_full.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.10/ckeditor_4.5.10_full.zip"
 
 # Colorbox
 libraries[colorbox][type] = "library"
