@@ -56,6 +56,7 @@ projects[geofield]                                              = 2.3
 projects[geophp]                                                = 1.7
 projects[google_analytics]                                      = 2.1
 projects[hidden_captcha]                                        = 1.0
+projects[hidden_captcha][patch][] = "https://www.drupal.org/files/hidden_captcha-ajax_support-1978718-1.patch"
 projects[html5_tools]                                           = 1.3
 projects[imagecache_actions]                                    = 1.7
 projects[image_url_formatter]                                   = 1.4
