@@ -1,0 +1,9 @@
+core = 7.x
+api = 2
+
+projects[drupal][version] = "7.50"
+
+; Profile
+projects[iris][type] = profile
+projects[iris][download][type] = git
+projects[iris][download][url] = https://github.com/KennethHooper/iris.git
