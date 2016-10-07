@@ -17,9 +17,9 @@ function plato_form_install_configure_form_alter(&$form, $form_state) {
 /**
  * Implementation of hook_profile_details().
  */
-function plato_profile_details() {
+function iris_profile_details() {
   return array(
-    'name' => 'plato',
-    'description' => 'Base Plato profile',
+    'name' => 'iris',
+    'description' => 'Base Iris profile',
   );
 }
