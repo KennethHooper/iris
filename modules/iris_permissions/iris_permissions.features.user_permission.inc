@@ -7,7 +7,7 @@
 /**
  * Implements hook_user_default_permissions().
  */
-function plato_permissions_user_default_permissions() {
+function iris_permissions_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'access content'.
