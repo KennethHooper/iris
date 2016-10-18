@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Iris Path Alias feature.
+ */
+
+include_once 'iris_path_alias.features.inc';
