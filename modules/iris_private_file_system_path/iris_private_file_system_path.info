@@ -1,4 +1,4 @@
-name = Plato Private File System Path
+name = Iris Private File System Path
 description = Sets the private file system path.
 core = 7.x
 package = Iris
