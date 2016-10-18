@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Iris User Registration feature.
+ */
+
+include_once 'iris_user_registration.features.inc';
