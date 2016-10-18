@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * plato_image_jpeg_quality.features.inc
+ * iris_image_jpeg_quality.features.inc
  */
 
 /**

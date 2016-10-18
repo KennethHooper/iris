@@ -1,9 +1,9 @@
-name = Plato Image Jpeg Quality
+name = Iris Image Jpeg Quality
 description = Sets Jpeg quality to maximum.
 core = 7.x
-package = Plato
+package = Iris
 version = 7.x-1.0
-project = plato_image_jpeg_quality
+project = iris_image_jpeg_quality
 dependencies[] = ctools
 dependencies[] = strongarm
 features[ctools][] = strongarm:strongarm:1
